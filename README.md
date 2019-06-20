@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="misc/logo.png" alt="vrsocial.io logo">
+    <img src="misc/logo.png" alt="vrsocial.io logo" width="500">
     <br/>webvr social platfrom<br/> 
 </p>
 
